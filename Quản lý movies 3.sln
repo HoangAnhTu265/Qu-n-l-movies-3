@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quản lý movies 3", "Quản lý movies 3\Quản lý movies 3.csproj", "{68C4050F-FAEA-4EF3-8B66-4CC9174C110B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{A5173267-2475-4BD9-AFEE-D69B268FFBB7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{68C4050F-FAEA-4EF3-8B66-4CC9174C110B} = {68C4050F-FAEA-4EF3-8B66-4CC9174C110B}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68C4050F-FAEA-4EF3-8B66-4CC9174C110B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C4050F-FAEA-4EF3-8B66-4CC9174C110B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C4050F-FAEA-4EF3-8B66-4CC9174C110B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C4050F-FAEA-4EF3-8B66-4CC9174C110B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5173267-2475-4BD9-AFEE-D69B268FFBB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5173267-2475-4BD9-AFEE-D69B268FFBB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5173267-2475-4BD9-AFEE-D69B268FFBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5173267-2475-4BD9-AFEE-D69B268FFBB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB760035-B1DE-4091-BB1F-4C51F8B26AC7}
+	EndGlobalSection
+EndGlobal

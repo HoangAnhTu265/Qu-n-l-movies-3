@@ -1,0 +1,10 @@
+F:\bài tập c#\WCF application\Quản lý movies 3\Quản lý movies 3\bin\Quản lý movies 3.dll.config
+F:\bài tập c#\WCF application\Quản lý movies 3\Quản lý movies 3\bin\Quản lý movies 3.dll
+F:\bài tập c#\WCF application\Quản lý movies 3\Quản lý movies 3\bin\Quản lý movies 3.pdb
+F:\bài tập c#\WCF application\Quản lý movies 3\Quản lý movies 3\bin\EntityFramework.dll
+F:\bài tập c#\WCF application\Quản lý movies 3\Quản lý movies 3\bin\EntityFramework.SqlServer.dll
+F:\bài tập c#\WCF application\Quản lý movies 3\Quản lý movies 3\bin\EntityFramework.xml
+F:\bài tập c#\WCF application\Quản lý movies 3\Quản lý movies 3\bin\EntityFramework.SqlServer.xml
+F:\bài tập c#\WCF application\Quản lý movies 3\Quản lý movies 3\obj\Debug\Quản lý movies 3.dll
+F:\bài tập c#\WCF application\Quản lý movies 3\Quản lý movies 3\obj\Debug\Quản lý movies 3.pdb
+F:\bài tập c#\WCF application\Quản lý movies 3\Quản lý movies 3\obj\Debug\Quản lý movies 3.csprojResolveAssemblyReference.cache
